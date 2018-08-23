@@ -1,2 +1,2 @@
 # gravenhage
-De Bruijin Sequece based Bit Shift Begister exploitation.
+De Bruijin Sequece based SISO Bit Shift Register exploitation.
