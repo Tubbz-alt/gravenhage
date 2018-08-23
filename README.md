@@ -2,9 +2,14 @@
 
 A tool to bruteforce radio receivers implementing bit shift registers (industry standard in cars, alarms). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode.
 
+### Supported modulation techniques
+* Amplitude Shift Keying (ASK)
+* Phase Shift Keying (PSK)
+* Frequency Shift Keying (FSK)
 
 ### Example Output
 ``python3.6 graven.py -kl 12 -u FSK -f 10 -p -of dump``
+<a href="https://github.com/zadewg/"><img src="https://image.ibb.co/e7u0OK/fsk.png" title="FSK" alt="FSK"></a>
 
 ``` 
                                 __                  
