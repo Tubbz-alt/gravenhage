@@ -1,11 +1,12 @@
 # gravenhage
 
-A tool to bruteforce radio devices implementing shift registers (industry standard in garage doors, cars, alarms...). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode. Tests have shown 12 bit keys are broken in an average of 4 seconds.
+Payload creation and modulation visualtization tool for bruteforcing radio devices implementing shift registers (industry standard in garage doors, cars, alarms...). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode. Tests have shown 12 bit keys are broken in an average of 4 seconds.
 
 ### Supported modulation techniques
 * Amplitude Shift Keying (ASK)
 * Phase Shift Keying (PSK)
 * Frequency Shift Keying (FSK)
+* Pulse width modulation (PWM)
 
 ### Example Output
 ``python3.6 graven.py -kl 12 -u FSK -f 10 -p -of dump``
