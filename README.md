@@ -1,6 +1,6 @@
 # gravenhage
 
-A tool to bruteforce radio receivers implementing bit shift registers (industry standard in cars, alarms). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode. Tests have shown 12 bit keys are broken in an average of 4 seconds.
+A tool to bruteforce radio devices implementing shift registers (industry standard in garage doors, cars, alarms...). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode. Tests have shown 12 bit keys are broken in an average of 4 seconds.
 
 ### Supported modulation techniques
 * Amplitude Shift Keying (ASK)
