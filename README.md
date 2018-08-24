@@ -23,7 +23,9 @@ Payload creation and modulation visualtization tool for bruteforcing radio devic
 
     https://github.com/zadewg/gravenhage  
 
- 
+
+Original dictionary size: 49152 bits
+Exploit payload size: 4108 bits
 
 Sequence head: 000000001000000110000010100000111000010010000101100001101
 
