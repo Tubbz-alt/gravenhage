@@ -2,6 +2,8 @@
 
 Payload creation and modulation visualtization tool for bruteforcing radio devices implementing shift registers (industry standard in garage doors, cars, alarms...). Allows ultra fast bruteforcing as only one bit needs to be sent in order to try one full passcode. Tests have shown 12 bit keys are broken in an average of 4 seconds.
 
+See [RFCAT](https://github.com/atlas0fd00m/rfcat) for hardware requirements and transceiving.
+
 ### Supported modulation techniques
 * Amplitude Shift Keying (ASK)
 * Phase Shift Keying (PSK)
